@@ -10,6 +10,7 @@ void main() {
           buatKotak(Colors.orangeAccent[400]!, 70),
           buatKotak(Colors.greenAccent, 50),
           buatKotak(Colors.orangeAccent[400]!, 90),
+          buatKotak(Colors.pinkAccent[400]!, 50),
         ],
       ),
     )),
